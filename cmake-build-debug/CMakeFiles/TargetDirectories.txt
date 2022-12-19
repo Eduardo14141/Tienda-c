@@ -1,0 +1,3 @@
+/home/lalo/Documentos/JetBrainsProjects/CLionProjects/Tiendita/cmake-build-debug/CMakeFiles/Tiendita.dir
+/home/lalo/Documentos/JetBrainsProjects/CLionProjects/Tiendita/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lalo/Documentos/JetBrainsProjects/CLionProjects/Tiendita/cmake-build-debug/CMakeFiles/rebuild_cache.dir
